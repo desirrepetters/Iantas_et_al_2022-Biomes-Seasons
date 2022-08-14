@@ -28,14 +28,6 @@ navbar:
   - text: Codes
     icon: fa fa-file-code-o
     href: code.html
-        subnavbar:
-            - text: Biomes & Seasons
-            icon: fa fa-table
-            href: data.html
-            -text: Host Tissues
-            icon: fa fa-table
-            href: data.html
-
   - text: Manuscript
     icon: fa fa-file-text-o
     href: manuscript.html

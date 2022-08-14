@@ -13,6 +13,7 @@ The packages necessary for this analysis..
 library(readr)
 ```
 
+To start, we read the previously prepared table of Genera and number of individuals per plant, and calculate the main diversity indices: abundance (N), richness (S), diversity (Shannon's H'), evenness (Pielou's J) and Simpson index (herein referred as "Lambda" in the script). Indices are calculated with functions from vegan package and saved to a new table ("Indices.xlsx"):
 
 ## Data import
 

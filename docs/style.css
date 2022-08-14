@@ -37,6 +37,12 @@ h1, h2, h3,h4 {
     background-color: #006699
 
 }
+
+.subnavbar {
+  float: left;
+  overflow: hidden;
+}
+
 .list-group-item.active {
     z-index: 2;
     color: #ffffff;
